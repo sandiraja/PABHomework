@@ -25,3 +25,6 @@ dependencyResolutionManagement {
 rootProject.name = "PABHomework"
 include(":app")
 include(":hw02")
+include(":hw03")
+include(":hw04")
+include(":hw05")

@@ -12,4 +12,3 @@ fun main() {
         println("Day $day: Study for 20 minutes")
     }
 }
-
